@@ -12,7 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - FM©CREATOR is a open source project. 
-- Source - https://github.com/hackgit12/FM-CREATOR 
+- Source - പോടാ ഞാൻ തരൂല്ല 
 
 <b>DEVS:</b>
 - <a href=https://t.me/FM_MOVE>FM_CREATOR</a>"""
