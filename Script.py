@@ -21,7 +21,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and FP©REATOR will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. MF_MovieBot should have admin privillage.
+1. Dairdevilbot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
