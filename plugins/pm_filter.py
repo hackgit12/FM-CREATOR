@@ -441,7 +441,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🕹️ ᴜᴩᴅᴀᴛᴇ', url='https://t.me/FPHDMOVE'),
             InlineKeyboardButton('♥️ 𝖘𝖔𝖚𝖗𝖈𝖊', callback_data='source')
         ], [
-            InlineKeyboardButton('🏠 Home', callback_data='start'),
+            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
