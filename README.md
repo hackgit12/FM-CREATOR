@@ -103,7 +103,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/FPRoBotUpdate)
 
 ## Credits 
-* [![FP-creator-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://t.me/The_user_death)
+* [![FPcreator-Devs](https://img.shields.io/static/v1?label=FPCREATOR&message=devs&color=critical)](https://t.me/The_user_death)
 
 
 ## Thanks to 
