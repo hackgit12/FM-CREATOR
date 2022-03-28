@@ -46,7 +46,6 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍 𝖘𝖊𝖆𝖗𝖈𝖍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
-            InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ2', url='https://t.me/MF_Movieschat')
             ],[
             InlineKeyboardButton('☠️ 𝖍𝖊𝖑𝖕', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -90,7 +89,6 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔍 𝖘𝖊𝖆𝖗𝖈𝖍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
-            InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ2', url='https://t.me/MF_Movieschat')
             ],[
             InlineKeyboardButton('☠️ 𝖍𝖊𝖑𝖕', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
