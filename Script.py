@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
+    START_TXT = """𝙷𝙴𝙻𝙾 {},𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>
 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗,
 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 😎"""
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -22,7 +22,7 @@ class script(object):
 - Filter is the feature were users can set automated replies for a particular keyword and I will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Bot should have admin privillage.
+1. <a href=https://t.me/{}>{}</a> should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -37,7 +37,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ʙᴏᴛ supports buttons with any telegram media type.
+2. <a href=https://t.me/{}>{}</a> supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -65,7 +65,7 @@ class script(object):
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>ᴅᴀɪʀᴅᴇᴠɪʟ</b>
+    EXTRAMOD_TXT = """Help: <b><a href=https://t.me/{}>{}</a></b>
 
 <b>NOTE:</b>
 these are the extra features of This bot
