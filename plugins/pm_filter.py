@@ -409,8 +409,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 𝖘𝖊𝖆𝖗𝖈𝖍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
         ], [
-            InlineKeyboardButton('☠️ 𝖍𝖊𝖑𝖕', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('ʜᴇʟᴩ💤', callback_data='help'),
+            InlineKeyboardButton('☠️ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
