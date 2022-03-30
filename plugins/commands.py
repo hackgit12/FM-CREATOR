@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/MF_Movieschat')
             ],
             [
-                InlineKeyboardButton('☠️ 𝖍𝖊𝖑𝖕', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('ʜᴇʟᴩ💤', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -44,7 +44,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 𝖘𝖊𝖆𝖗𝖈𝖍', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
             ],[
             InlineKeyboardButton('ʜᴇʟᴩ💤', callback_data='help'),
@@ -87,7 +87,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 𝖘𝖊𝖆𝖗𝖈𝖍', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
             ],[
             InlineKeyboardButton('ʜᴇʟᴩ💤', callback_data='help'),
