@@ -91,7 +91,7 @@ async def start(client, message):
             InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
             ],[
             InlineKeyboardButton('ʜᴇʟᴩ💤', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('☠️ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
