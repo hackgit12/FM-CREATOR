@@ -14,7 +14,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 
 - Source - പോടാ ഞാൻ തരൂല്ല he. he. he... 😂
-- yᴏᴜ ɴᴇᴇᴅ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ ᴡɪᴛʜ ᴇᴅɪᴛɪɴɢ yᴏᴜʀ contents ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ
+- yᴏᴜ ɴᴇᴇᴅ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪꜱ ᴡɪᴛʜ ᴇᴅɪᴛɪɴɢ yᴏᴜʀ contents ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ
 <b>DEVS:</b>
 - <a href=https://t.me/The_user_death>ᴩʀᴏꜰᴇꜱᴇʀ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
