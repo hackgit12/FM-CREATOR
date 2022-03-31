@@ -406,11 +406,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔍 𝖘𝖊𝖆𝖗𝖈𝖍', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
+            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/FILIMPIRATESGROUP')
         ], [
-            InlineKeyboardButton('ʜᴇʟᴩ💤', callback_data='help'),
-            InlineKeyboardButton('☠️ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -428,7 +428,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴇxᴛʀᴀ ᴍᴏᴅꜱ', callback_data='extra')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🧸 𝖘𝖙𝖆𝖙𝖚𝖘', callback_data='stats')
+            InlineKeyboardButton('🧸 ꜱᴛᴀᴛᴜꜱ', callback_data='stats')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -438,8 +438,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🕹️ ɢʀᴏᴜᴩ', url='https://t.me/MF_Movieschat'),
-            InlineKeyboardButton('♥️ 𝖘𝖔𝖚𝖗𝖈𝖊', callback_data='source')
+            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/MF_Movieschat'),
+            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
